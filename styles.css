@@ -1,0 +1,16 @@
+h1{
+text-align: center;
+}
+.img{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+#top{
+    display: block;
+    text-align: right;
+}
+body{
+    background-color: rgba(0, 169, 247, 0.925);
+}
